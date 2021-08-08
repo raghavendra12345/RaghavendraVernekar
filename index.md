@@ -1,7 +1,7 @@
-#Welcome to my Website.
-I am a research scholar in the Department of Computer Science and Engineering at IIT Madras. I am currently working in the area of Cryptography and Theoretical Computer Science with Professor Aishwarya. 
+---
+layout: single
+author_profile: true
+---
+I am a faculty member in the [Department of Computer Science and Engineering](https://cse.iitm.ac.in) at [IIT Madras](https://www.iitm.ac.in). I work in the areas of sublinear algorithms, and computational complexity theory.
 
-I have completed my undergraduation from NIT Goa in the Department of Computer Science and Engineering during 2016-2020.
-
-
-
+Prior to joining IIT Madras, I was a postdoctoral fellow at [TU Dortmund](https://ls2-www.cs.tu-dortmund.de/grav/en/), working with [Prof. Christian Sohler](https://cds.uni-koeln.de/en/people/core-scientists/prof-dr-christian-sohler). Before that I was a postdoctoral fellow at the [Technion](http://cs.technion.ac.il/), working with [Prof. Eldar Fischer](https://eldar.cswp.cs.technion.ac.il/). I completed my PhD at [Matscience](https://www.imsc.res.in/theoretical_computer_science), Chennai where [Prof V. Arvind](https://www.imsc.res.in/v_arvind) was my advisor.
